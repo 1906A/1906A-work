@@ -24,5 +24,5 @@
 | 高子懿 | 未完成                                                       | 未完成       | 暂无                                     | https://github.com/1906A/GaoZiYi.git     |
 | 王岩松 | 完成页面数据渲染，商品参数的前台展示有问题，展示位置混乱，页面静态化完成 | 完成         | 商品参数的前台展示有问题，展示位置混乱。 | https://github.com/1906A/WangYanSong.git |
 | 李政杨 | 商品详情页的渲染                                             | 完成         | 暂无                                     | https://github.com/1906A/LiZhengYang     |
-| 刘世辉 | 页面数据渲染                                                 | 完成         | 暂无                                     |                                          |
+| 刘世辉 | 页面数据渲染                                                 | 完成         | 暂无                                     |   https://github.com/1906A/liushihui                                       |
 
