@@ -8,14 +8,14 @@
 
 | 姓名   | 笔记完成内容 | 录音完成内容 | 遇到的问题 | 地址                                 |
 | :----- | ------------ | ------------ | ---------- | ------------------------------------ |
-| 于子宁 | 商品详情     |              | 无         | https://github.com/1906A/YuZiNing    |
-| 祝继蒙 | 商品详情     |              | 无         | https://github.com/1906A/zhujimeng   |
-| 高子懿 |              |              | 暂无       | https://github.com/1906A/GaoZiYi.git |
-| 王岩松 | 商品详情     |              | 无         | https://github.com/1906A/WangYanSong |
-| 李政杨 | 商品详情     |              | 无         | https://github.com/1906A/LiZhengYang |
-| 刘世辉 | 商品详情     |              | 无         | https://github.com/1906A/liushihui   |
+| 于子宁 | 商品详情     | 完成         | 无         | https://github.com/1906A/YuZiNing    |
+| 祝继蒙 | 商品详情     | 完成         | 无         | https://github.com/1906A/zhujimeng   |
+| 高子懿 | 商品详情     | 完成         | 暂无       | https://github.com/1906A/GaoZiYi.git |
+| 王岩松 | 商品详情     | 完成         | 无         | https://github.com/1906A/WangYanSong |
+| 李政杨 | 商品详情     | 完成         | 无         | https://github.com/1906A/LiZhengYang |
+| 刘世辉 | 商品详情     | 完成         | 无         | https://github.com/1906A/liushihui   |
 
-#day01 -6.8
+#day02 -6.8
 
 | 姓名   | 笔记完成内容                                                 | 录音完成内容 | 遇到的问题                               | 地址                                     |
 | ------ | ------------------------------------------------------------ | ------------ | ---------------------------------------- | ---------------------------------------- |
@@ -24,5 +24,16 @@
 | 高子懿 | 未完成                                                       | 未完成       | 暂无                                     | https://github.com/1906A/GaoZiYi.git     |
 | 王岩松 | 完成页面数据渲染，商品参数的前台展示有问题，展示位置混乱，页面静态化完成 | 完成         | 商品参数的前台展示有问题，展示位置混乱。 | https://github.com/1906A/WangYanSong.git |
 | 李政杨 | 商品详情页的渲染                                             | 完成         | 暂无                                     | https://github.com/1906A/LiZhengYang     |
-| 刘世辉 | 页面数据渲染                                                 | 完成         | 暂无                                     |   https://github.com/1906A/liushihui                                       |
+| 刘世辉 | 页面数据渲染                                                 | 完成         | 暂无                                     | https://github.com/1906A/liushihui       |
+
+# day03 -6.9
+
+| 姓名   | 笔记完成内容                                   | 录音完成内容 | 遇到的问题          | 地址                                     |
+| ------ | ---------------------------------------------- | ------------ | ------------------- | ---------------------------------------- |
+| 于子宁 | 完成五种消息类型的掌握 spring AMQP的使用的示例 | 完成         | 无                  | https://github.com/1906A/YuZiNing        |
+| 祝继蒙 | 完成spring AMQP的代码实现                      | 完成         | 暂无                | https://github.com/1906A/zhujimeng       |
+| 高子懿 | 未完成                                         | 未完成       | 暂无                | https://github.com/1906A/GaoZiYi.git     |
+| 王岩松 | 完成rabbitmq代码，五种消息类型的掌握           | 完成         | git提交代码，有问题 | https://github.com/1906A/WangYanSong.git |
+| 李政杨 | 完成spring AMQP的代码实现                      | 完成         | 暂无                | https://github.com/1906A/LiZhengYang     |
+| 刘世辉 | 完成spring AMQP的代码实现完成                  | 完成         | 暂无                | https://github.com/1906A/liushihui       |
 
