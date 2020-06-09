@@ -21,13 +21,13 @@
 | 郭志伟 | 完成商品详情页需要的数据查询 | 完成         | 暂无       | https://github.com/1906A/guozhiwei.git     |
 | 张前宽 | 商品详情查询后台             | 完成         | 暂无       | https://github.com/1906A/zhangqiankuan.git |
 
-# day02 -6.5
+# day02 -6.9
 
-| 姓名   | 笔记完成内容           | 笔记完成内容 | 遇到的问题 | 地址                                   |
-| ------ | ---------------------- | ------------ | ---------- | -------------------------------------- |
-| 徐杭   |                        |              |            |                                        |
-| 刘甜甜 |                        |              |            |                                        |
-| 袁甜甜 |                        |              |            |                                        |
-| 郭志伟 | 完成商品详情页数据渲染 | 完成         | 暂无       | https://github.com/1906A/guozhiwei.git |
-| 张前宽 |                        |              |            |                                        |
+| 姓名   | 笔记完成内容 | 笔记完成内容 | 遇到的问题 | 地址                                       |
+| ------ | ------------ | ------------ | ---------- | ------------------------------------------ |
+| 徐杭   | rabbitmq实例 | 完成         | 暂无       | https://github.com/xu-hang-hang/xuhang.git |
+| 刘甜甜 | rabbitmq实例 | 完成         | 暂无       | https://github.com/1906A/liutiantian.git   |
+| 袁甜甜 | rabbitmq实例 | 完成         | 暂无       | https://github.com/1906A/yuantiantian.git  |
+| 郭志伟 | rabbitmq实例 | 完成         | 暂无       | https://github.com/1906A/guozhiwei.git     |
+| 张前宽 | rabbitmq实例 | 完成         | 暂无       | https://github.com/1906A/guozhiwei.git     |
 
