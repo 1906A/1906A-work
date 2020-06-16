@@ -51,10 +51,10 @@
 
 6.15
 
-| 姓名   | 笔记完成内容         | 录音完成内容 | 遇到的问题 | 地址                                                         |
-| ------ | -------------------- | ------------ | ---------- | ------------------------------------------------------------ |
-| 曹晟钧 | 未完成赶进度         | 未完成赶进度 | 无         | <https://github.com/1906A/CaoShengJun>                       |
-| 康静阁 | rabbitmq消息同步数据 | 未完成       | 无         | <https://github.com/1906A/KangJingGe.git>，<https://github.com/kangjge/KangJingGeZuoYe.git> |
-| 葛亦   | 未完成               | 未完成       | 无         | <https://github.com/1906A/geyi.git>                          |
-| 张祺   | 完成登录注册         | 完成         | 无         | <https://github.com/1906A/zhangqi.git>                       |
-| 曹星   | 创建两个微服务       | 无           | 无         | <https://github.com/1906A/caoxing.git>                       |
+| 姓名   | 笔记完成内容   | 录音完成内容 | 遇到的问题 | 地址                                                         |
+| ------ | -------------- | ------------ | ---------- | ------------------------------------------------------------ |
+| 曹晟钧 | 未完成赶进度   | 未完成赶进度 | 无         | <https://github.com/1906A/CaoShengJun>                       |
+| 康静阁 | 完成登录注册   | 完成         | 无         | <https://github.com/1906A/KangJingGe.git>，<https://github.com/kangjge/KangJingGeZuoYe.git> |
+| 葛亦   | 未完成         | 未完成       | 无         | <https://github.com/1906A/geyi.git>                          |
+| 张祺   | 完成登录注册   | 完成         | 无         | <https://github.com/1906A/zhangqi.git>                       |
+| 曹星   | 创建两个微服务 | 无           | 无         | <https://github.com/1906A/caoxing.git>                       |
