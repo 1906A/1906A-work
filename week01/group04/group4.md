@@ -53,3 +53,13 @@
 | 郭志伟 | 商品数据同步       | 完成         | 暂无       | https://github.com/1906A/guozhiwei.git     |
 | 张前宽 | 未完成             | 暂无         | 暂无       | https://github.com/1906A/zhangqiankuan.git |
 
+# 6.15
+
+| 姓名   | 笔记完成内容         | 录音完成内容 | 遇到问题 | 地址                                       |
+| ------ | -------------------- | ------------ | -------- | ------------------------------------------ |
+| 徐杭   | 用户登录注册短信验证 | 完成         | 暂无     | https://github.com/xu-hang-hang/xuhang.git |
+| 刘甜甜 | 用户登录注册短信验证 | 完成         | 暂无     | https://github.com/1906A/liutiantian.git   |
+| 袁田田 | 用户登录注册短信验证 | 完成         | 暂无     | https://github.com/1906A/yuantiantian.git  |
+| 郭志伟 | 完成用户登录注册     | 完成         | 暂无     | https://github.com/1906A/guozhiwei.git     |
+| 张前宽 | 完成用户登录注册     | 完成         | 暂无     | https://github.com/1906A/zhangqiankuan.git |
+
