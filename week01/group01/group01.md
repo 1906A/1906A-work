@@ -61,3 +61,14 @@
 | 刘世辉 | 实现用户的注册           | 完成         | 暂无       | https://github.com/1906A/liushihui       |
 | 李政杨 | 解决商品不同步问题       | 未完成       | 暂无       | https://github.com/1906A/LiZhengYang     |
 
+# day-06-6.16
+
+| 姓名   | 笔记完成内容                       | 录音完成内容 | 遇到的问题       | 地址                                     |
+| ------ | ---------------------------------- | ------------ | ---------------- | ---------------------------------------- |
+| 于子宁 | 实现用户的登录和注册功能，短信接入 | 未完成       | 无               | https://github.com/1906A/YuZiNing        |
+| 祝继蒙 | 实现用户的登录和注册功能           | 完成         | 暂无             | https://github.com/1906A/zhujimeng       |
+| 王岩松 | 完成用户登录                       | 完成         | cookie携带有问题 | https://github.com/1906A/WangYanSong.git |
+| 高子懿 | 商品列表展示                       | 未完成       | 暂无             | https://github.com/1906A/GaoZiYi.git     |
+| 刘世辉 | 实现用户的登录                     | 完成         | 暂无             | https://github.com/1906A/liushihui       |
+| 李政杨 | 实现用户的登录和注册功能           | 完成         | 暂无             | https://github.com/1906A/LiZhengYang     |
+
