@@ -63,3 +63,13 @@
 | 郭志伟 | 完成用户登录注册     | 完成         | 暂无     | https://github.com/1906A/guozhiwei.git     |
 | 张前宽 | 完成用户登录注册     | 完成         | 暂无     | https://github.com/1906A/zhangqiankuan.git |
 
+# 6.16
+
+| 姓名   | 笔记完成内容 | 录音完成内容 | 遇到问题 | 地址                                       |
+| ------ | ------------ | ------------ | -------- | ------------------------------------------ |
+| 徐杭   | 授权中心     | 完成         | 暂无     | https://github.com/xu-hang-hang/xuhang.git |
+| 刘甜甜 | 授权中心     | 完成         | 暂无     | https://github.com/1906A/liutiantian.git   |
+| 袁田田 | 授权中心     | 完成         | 暂无     | https://github.com/1906A/yuantiantian.git  |
+| 郭志伟 | 授权中心     | 完成         | 暂无     | https://github.com/1906A/guozhiwei.git     |
+| 张前宽 | 授权中心     | 完成         | 暂无     | https://github.com/1906A/zhangqiankuan.git |
+
