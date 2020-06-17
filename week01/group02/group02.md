@@ -59,3 +59,13 @@
 | 张祺   | 完成登录注册 | 完成         | 无         | <https://github.com/1906A/zhangqi.git>                       |
 | 曹星   | 完成登录注册 | 完成         | 无         | <https://github.com/1906A/caoxing.git>                       |
 
+6.16
+
+| 姓名   | 笔记完成内容 | 录音完成内容 | 遇到的问题 | 地址                                                         |
+| ------ | ------------ | ------------ | ---------- | ------------------------------------------------------------ |
+| 曹晟钧 | 未完成赶进度 | 未完成赶进度 | 无         | <https://github.com/1906A/CaoShengJun>                       |
+| 康静阁 | 完成权限管理 | 完成         | 无         | <https://github.com/1906A/KangJingGe.git>，<https://github.com/kangjge/KangJingGeZuoYe.git> |
+| 葛亦   | 完成权限管理 | 完成         | 无         | <https://github.com/1906A/geyi.git>                          |
+| 张祺   | 完成权限管理 | 完成         | 无         | <https://github.com/1906A/zhangqi.git>                       |
+| 曹星   | 完成权限管理 | 完成         | 无         | <https://github.com/1906A/caoxing.git>                       |
+
