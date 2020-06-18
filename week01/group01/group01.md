@@ -46,7 +46,7 @@
 | 高子懿 | 商品                     | 未完成       |                                 | https://github.com/1906A/GaoZiYi.git     |
 | 王岩松 | 使用rabbitmq同步商品数据 | 完成         | 无                              | https://github.com/1906A/WangYanSong.git |
 | 刘世辉 | 使用rabbitmq同步商品数据 | 完成         | 前台报错403，项目提交github失败 | https://github.com/1906A/liushihui       |
-| 李政杨 | 使用rabbitmq同步商品数据 | 未完成       | 暂无                            | https://github.com/1906A/LiZhengYang     |
+| 李政杨 | 使用rabbitmq同步商品数据 | 完成         | 暂无                            | https://github.com/1906A/LiZhengYang     |
 
 ![59180822374](C:\Users\ADMINI~1.SC-\AppData\Local\Temp\1591808223745.png)
 
@@ -54,21 +54,32 @@
 
 | 姓名   | 笔记完成内容             | 录音完成内容 | 遇到的问题 | 地址                                     |
 | ------ | ------------------------ | ------------ | ---------- | ---------------------------------------- |
-| 于子宁 | 实现用户的登录和注册功能 | 未完成       | 无         | https://github.com/1906A/YuZiNing        |
+| 于子宁 | 实现用户的登录和注册功能 | 完成         | 无         | https://github.com/1906A/YuZiNing        |
 | 祝继蒙 | 实现用户的登录和注册功能 | 完成         | 暂无       | https://github.com/1906A/zhujimeng       |
 | 王岩松 | 实现用户的登录和注册功能 | 完成         | 暂无       | https://github.com/1906A/WangYanSong.git |
 | 高子懿 | 商品详情展示             | 未完成       | 暂无       | https://github.com/1906A/GaoZiYi.git     |
 | 刘世辉 | 实现用户的注册           | 完成         | 暂无       | https://github.com/1906A/liushihui       |
-| 李政杨 | 解决商品不同步问题       | 未完成       | 暂无       | https://github.com/1906A/LiZhengYang     |
+| 李政杨 | 解决商品不同步问题       | 完成         | 暂无       | https://github.com/1906A/LiZhengYang     |
 
 # day-06-6.16
 
 | 姓名   | 笔记完成内容                       | 录音完成内容 | 遇到的问题       | 地址                                     |
 | ------ | ---------------------------------- | ------------ | ---------------- | ---------------------------------------- |
-| 于子宁 | 实现用户的登录和注册功能，短信接入 | 未完成       | 无               | https://github.com/1906A/YuZiNing        |
+| 于子宁 | 实现用户的登录和注册功能，短信接入 | 完成         | 无               | https://github.com/1906A/YuZiNing        |
 | 祝继蒙 | 实现用户的登录和注册功能           | 完成         | 暂无             | https://github.com/1906A/zhujimeng       |
 | 王岩松 | 完成用户登录                       | 完成         | cookie携带有问题 | https://github.com/1906A/WangYanSong.git |
 | 高子懿 | 商品列表展示                       | 未完成       | 暂无             | https://github.com/1906A/GaoZiYi.git     |
 | 刘世辉 | 实现用户的登录                     | 完成         | 暂无             | https://github.com/1906A/liushihui       |
 | 李政杨 | 实现用户的登录和注册功能           | 完成         | 暂无             | https://github.com/1906A/LiZhengYang     |
+
+# day-07-6.17
+
+| 姓名   | 笔记完成内容                              | 录音完成内容 | 遇到的问题 | 地址                                     |
+| ------ | ----------------------------------------- | ------------ | ---------- | ---------------------------------------- |
+| 于子宁 | 登录注册功能                              | 未完成       | 无         | https://github.com/1906A/YuZiNing        |
+| 祝继蒙 | 用户请求授权中心                          | 完成         | 暂无       | https://github.com/1906A/zhujimeng       |
+| 高子懿 | 商品列表展示                              | 未完成       | 暂无       | https://github.com/1906A/GaoZiYi.git     |
+| 王岩松 | 完成用户过滤和白名单 未登录状态加入购物车 | 完成         | 无         | https://github.com/1906A/WangYanSong.git |
+| 李政杨 | 用户请求授权中心                          | 完成         | 暂无       | https://github.com/1906A/LiZhengYang     |
+| 刘世辉 | 用户请求授权中心                          | 完成         | 暂无       | https://github.com/1906A/liushihui       |
 
