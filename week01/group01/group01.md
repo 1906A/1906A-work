@@ -83,3 +83,25 @@
 | 李政杨 | 用户请求授权中心                          | 完成         | 暂无       | https://github.com/1906A/LiZhengYang     |
 | 刘世辉 | 用户请求授权中心                          | 完成         | 暂无       | https://github.com/1906A/liushihui       |
 
+#day-08-6.18
+
+| 姓名   | 笔记完成内容     | 录音完成内容 | 遇到的问题 | 地址                                     |
+| ------ | ---------------- | ------------ | ---------- | ---------------------------------------- |
+| 于子宁 | 授权中心功能     | 完成         | 无         | https://github.com/1906A/YuZiNing        |
+| 祝继蒙 | 购物车           | 完成         | 暂无       | https://github.com/1906A/zhujimeng       |
+| 高子懿 | 商品列表展示     | 未完成       | 暂无       | https://github.com/1906A/GaoZiYi.git     |
+| 王岩松 | 购物车微服务     | 完成         | 无         | https://github.com/1906A/WangYanSong.git |
+| 李政杨 | 用户请求授权中心 | 完成         | 暂无       | https://github.com/1906A/LiZhengYang     |
+| 刘世辉 | 用户请求授权中心 | 完成         | 暂无       | https://github.com/1906A/liushihui       |
+
+# day09-6.19
+
+| 姓名   | 笔记完成内容   | 录音完成内容 | 遇到的问题 | 地址                                                         |
+| ------ | -------------- | ------------ | ---------- | ------------------------------------------------------------ |
+| 于子宁 | 授权中心功能   | 完成         | 无         | https://github.com/1906A/YuZiNing                            |
+| 祝继蒙 | 购物车微服务   | 完成         | 暂无       | <https://github.com/1906A/zhujimeng/tree/master/%E4%BD%9C%E4%B8%9A |
+| 高子懿 | 商品列表展示   | 未完成       | 暂无       | https://github.com/1906A/GaoZiYi.git                         |
+| 王岩松 | 购物车微服务   | 完成         | 无         | https://github.com/1906A/WangYanSong.git                     |
+| 李政杨 | 购物车微服务   | 完成         | 暂无       | https://github.com/1906A/LiZhengYang                         |
+| 刘世辉 | 实现加入购物车 | 完成         | 暂无       | https://github.com/1906A/liushihui                           |
+
