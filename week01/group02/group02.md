@@ -109,8 +109,8 @@
 
 | 姓名   | 笔记完成内容      | 录音完成内容    | 遇到的问题 | 地址                                                         |
 | ------ | ----------------- | --------------- | ---------- | ------------------------------------------------------------ |
-| 曹晟钧 | 赶进度            | 暂无            | 无         | <https://github.com/1906A/CaoShengJun>                       |
-| 康静阁 | 赶进度            | 暂无            | 无         | <https://github.com/1906A/KangJingGe.git>，<https://github.com/kangjge/KangJingGeZuoYe.git> |
-| 葛亦   | 赶进度            | 暂无            | 无         | <https://github.com/1906A/geyi.git>                          |
+| 曹晟钧 | 购物车redis加支付 | 6.22swagger录音 | 无         | <https://github.com/1906A/CaoShengJun>                       |
+| 康静阁 | 购物车redis加支付 | 6.22swagger录音 | 无         | <https://github.com/1906A/KangJingGe.git>，<https://github.com/kangjge/KangJingGeZuoYe.git> |
+| 葛亦   | 购物车redis加支付 | 6.22swagger录音 | 无         | <https://github.com/1906A/geyi.git>                          |
 | 张祺   | 购物车redis加支付 | 6.22swagger录音 | 无         | <https://github.com/1906A/zhangqi.git>                       |
-| 曹星   | 赶进度            | 暂无            | 无         | <https://github.com/1906A/caoxing.git>                       |
+| 曹星   | 购物车redis加支付 | 6.22swagger录音 | 无         | <https://github.com/1906A/caoxing.git>                       |
