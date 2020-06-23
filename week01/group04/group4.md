@@ -75,11 +75,41 @@
 
 # 6.17
 
-| 姓名   | 笔记完成内容 | 录音完成内容 | 遇到问题     | 地址                                       |
-| ------ | ------------ | ------------ | ------------ | ------------------------------------------ |
-| 徐杭   | 添加购物车   | 完成         | 暂无         | https://github.com/xu-hang-hang/xuhang.git |
-| 刘甜甜 | 添加购物车   | 完成         | 暂无         | https://github.com/1906A/liutiantian.git   |
-| 袁田田 | 添加购物车   | 完成         | 暂无         | https://github.com/1906A/yuantiantian.git  |
-| 郭志伟 | 添加购物车   | 完成         | 代码传不上去 | https://github.com/1906A/guozhiwei.git     |
-| 张前宽 | 添加购物车   | 完成         | 暂无         | https://github.com/1906A/zhangqiankuan.git |
+| 姓名   | 笔记完成内容 | 录音完成内容 | 遇到问题 | 地址                                       |
+| ------ | ------------ | ------------ | -------- | ------------------------------------------ |
+| 徐杭   | 添加购物车   | 完成         | 暂无     | https://github.com/xu-hang-hang/xuhang.git |
+| 刘甜甜 | 添加购物车   | 完成         | 暂无     | https://github.com/1906A/liutiantian.git   |
+| 袁田田 | 添加购物车   | 完成         | 暂无     | https://github.com/1906A/yuantiantian.git  |
+| 郭志伟 | 添加购物车   | 完成         | 暂无     | https://github.com/1906A/guozhiwei.git     |
+| 张前宽 | 添加购物车   | 完成         | 暂无     | https://github.com/1906A/zhangqiankuan.git |
+
+# 6.18
+
+| 姓名   | 笔记完成内容   | 录音完成内容 | 遇到问题 | 地址                                       |
+| ------ | -------------- | ------------ | -------- | ------------------------------------------ |
+| 徐杭   | 购物车多选删除 | 完成         | 暂无     | https://github.com/xu-hang-hang/xuhang.git |
+| 刘甜甜 | 购物车多选删除 | 完成         | 暂无     | https://github.com/1906A/liutiantian.git   |
+| 袁田田 | 购物车多选删除 | 完成         | 暂无     | https://github.com/1906A/yuantiantian.git  |
+| 郭志伟 | 购物车多选删除 | 完成         | 暂无     | https://github.com/1906A/guozhiwei.git     |
+| 张前宽 | 购物车多选删除 | 完成         | 暂无     | https://github.com/1906A/zhangqiankuan.git |
+
+# 6.19
+
+|        |                  |      |      |                                            |
+| ------ | ---------------- | ---- | ---- | ------------------------------------------ |
+| 徐杭   | 搭建购物车微服务 | 完成 | 暂无 | https://github.com/xu-hang-hang/xuhang.git |
+| 刘甜甜 | 搭建购物车微服务 | 完成 | 暂无 | https://github.com/1906A/liutiantian.git   |
+| 袁田田 | 搭建购物车微服务 | 完成 | 暂无 | https://github.com/1906A/yuantiantian.git  |
+| 郭志伟 | 搭建购物车微服务 | 完成 | 暂无 | https://github.com/1906A/guozhiwei.git     |
+| 张前宽 | 搭建购物车微服务 | 完成 | 暂无 | https://github.com/1906A/zhangqiankuan.git |
+
+# 6.22
+
+|      |      |      |      |      |
+| ---- | ---- | ---- | ---- | ---- |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
 
