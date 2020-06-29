@@ -114,3 +114,13 @@
 | 葛亦   | 购物车redis加支付 | 6.22swagger录音 | 无         | <https://github.com/1906A/geyi.git>                          |
 | 张祺   | 购物车redis加支付 | 6.22swagger录音 | 无         | <https://github.com/1906A/zhangqi.git>                       |
 | 曹星   | 购物车redis加支付 | 6.22swagger录音 | 无         | <https://github.com/1906A/caoxing.git>                       |
+
+6.28
+
+| 姓名   | 笔记完成内容       | 录音完成内容 | 遇到的问题 | 地址                                                         |
+| ------ | ------------------ | ------------ | ---------- | ------------------------------------------------------------ |
+| 曹晟钧 | 暂无               | 暂无         | 无         | <https://github.com/1906A/CaoShengJun>                       |
+| 康静阁 | springboot增删改查 | 完成录音     | 无         | <https://github.com/1906A/KangJingGe.git>，<https://github.com/kangjge/KangJingGeZuoYe.git> |
+| 葛亦   | springboot增删改查 | 完成录音     | 无         | <https://github.com/1906A/geyi.git>                          |
+| 张祺   | springboot增删改查 | 完成录音     | 无         | <https://github.com/1906A/zhangqi.git>                       |
+| 曹星   | springboot增删改查 | 完成录音     | 无         | <https://github.com/1906A/caoxing.git>                       |
