@@ -116,3 +116,14 @@
 | 李政杨 | 完成用户登录    短信验证码        | 未完成       | 暂无              | https://github.com/1906A/LiZhengYang     |
 | 刘世辉 | 未登录购物车                      | 完成         | 暂无              | https://github.com/1906A/liushihui       |
 
+# day11-6.28
+
+| 姓名   | 笔记完成内容                               | 录音完成内容 | 遇到的问题 | 地址                                     |
+| ------ | ------------------------------------------ | ------------ | ---------- | ---------------------------------------- |
+| 于子宁 | springboot springcloud thymeleaf复习       | 完成         | 无         | https://github.com/1906A/YuZiNing        |
+| 高子懿 | springboot springcloud thymeleaf复习未完成 | 未完成       | 暂无       | https://github.com/1906A/GaoZiYi.git     |
+| 祝继蒙 | springboot springcloud thymeleaf复习       | 完成         | 暂无       | https://github.com/1906A/zhujimeng       |
+| 王岩松 | 完成登录状态的购物车和swagger使用          | 完成         | 无         | https://github.com/1906A/WangYanSong.git |
+| 李政杨 | springboot springcloud thymeleaf复习       | 未完成       | 暂无       | https://github.com/1906A/LiZhengYang     |
+| 刘世辉 | springboot springcloud thymeleaf复习       | 完成         | 暂无       | https://github.com/1906A/liushihui       |
+
